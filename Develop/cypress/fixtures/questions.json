@@ -1,0 +1,218 @@
+[
+    {
+        "_id": "1",
+        "question": "What is the capital of France?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "text": "Madrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Paris",
+                "isCorrect": true
+            },
+            {
+                "text": "Rome",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "2",
+        "question": "Which planet is known as the Red Planet?",
+        "answers": [
+            {
+                "text": "Earth",
+                "isCorrect": false
+            },
+            {
+                "text": "Mars",
+                "isCorrect": true
+            },
+            {
+                "text": "Jupiter",
+                "isCorrect": false
+            },
+            {
+                "text": "Saturn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "3",
+        "question": "What is the largest ocean on Earth?",
+        "answers": [
+            {
+                "text": "Atlantic Ocean",
+                "isCorrect": false
+            },
+            {
+                "text": "Indian Ocean",
+                "isCorrect": false
+            },
+            {
+                "text": "Arctic Ocean",
+                "isCorrect": false
+            },
+            {
+                "text": "Pacific Ocean",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "4",
+        "question": "What is the capital of Spain?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "text": "Madrid",
+                "isCorrect": true
+            },
+            {
+                "text": "Paris",
+                "isCorrect": false
+            },
+            {
+                "text": "Rome",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "5",
+        "question": "What is the capital of Italy?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "text": "Madrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Paris",
+                "isCorrect": false
+            },
+            {
+                "text": "Rome",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "6",
+        "question": "What is the capital of Germany?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "isCorrect": true
+            },
+            {
+                "text": "Madrid",
+                "isCorrect": false
+            },
+            {
+                "text": "Paris",
+                "isCorrect": false
+            },
+            {
+                "text": "Rome",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "7",
+        "question": "What is the capital of the United Kingdom?",
+        "answers": [
+            {
+                "text": "Berlin",
+                "isCorrect": false
+            },
+            {
+                "text": "London",
+                "isCorrect": true
+            },
+            {
+                "text": "Paris",
+                "isCorrect": false
+            },
+            {
+                "text": "Rome",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "8",
+        "question": "What is the capital of the United States?",
+        "answers": [
+            {
+                "text": "Washington, D.C.",
+                "isCorrect": true
+            },
+            {
+                "text": "New York City",
+                "isCorrect": false
+            },
+            {
+                "text": "Los Angeles",
+                "isCorrect": false
+            },
+            {
+                "text": "Chicago",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "_id": "9",
+        "question": "What is the capital of Canada?",
+        "answers": [
+            {
+                "text": "Toronto",
+                "isCorrect": false
+            },
+            {
+                "text": "Montreal",
+                "isCorrect": false
+            },
+            {
+                "text": "Vancouver",
+                "isCorrect": false
+            },
+            {
+                "text": "Ottawa",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "_id": "10",
+        "question": "What is the capital of Australia?",
+        "answers": [
+            {
+                "text": "Sydney",
+                "isCorrect": false
+            },
+            {
+                "text": "Melbourne",
+                "isCorrect": false
+            },
+            {
+                "text": "Brisbane",
+                "isCorrect": false
+            }
+        ]
+    }
+]
